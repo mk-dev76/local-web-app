@@ -1,0 +1,6 @@
+‚Ð‚Â‚æ‚¤‚È‚à‚Ì
+php
+perl
+sh
+gd
+smartctl

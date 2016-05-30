@@ -1,0 +1,6 @@
+<p><table><tr><th>name</th><th>Status</th><th>Used</th><th>Size</th><th>Use%</th><th>Graph of Used</th></tr>
+<tr><td class=name>/mnt/nas1</td><td class=name><span style="color: blue;">PASSED</span></td><td>395.7GB</td><td>1396.6GB</td><td>28.33%</td><td class=graph><img src="./disk/df1.png" border=0></td></tr>
+<tr><td class=name>/mnt/nas2</td><td class=name><span style="color: blue;">PASSED</span></td><td>799.7GB</td><td>2793.2GB</td><td>28.63%</td><td class=graph><img src="./disk/df2.png" border=0></td></tr>
+<tr><td class=name>/mnt/nas3</td><td class=name><span style="color: blue;">PASSED</span></td><td>0.0GB</td><td>2793.2GB</td><td>0.00%</td><td class=graph><img src="./disk/df3.png" border=0></td></tr>
+<tr><td class=name>/mnt/nas4</td><td class=name><span style="color: blue;">PASSED</span></td><td>135.6GB</td><td>931.1GB</td><td>14.57%</td><td class=graph><img src="./disk/df4.png" border=0></td></tr>
+</table></p>
